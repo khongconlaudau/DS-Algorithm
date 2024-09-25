@@ -1,8 +1,5 @@
 package duc.linkedlist;
 
-import java.util.HashSet;
-import java.util.Set;
-
 public class LinkedList {
     private Node head;
     private Node tail;
